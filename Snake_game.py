@@ -1,5 +1,4 @@
 import random
-#from curses import initscr
 import curses
 
 s = curses.initscr()
